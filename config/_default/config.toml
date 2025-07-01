@@ -71,3 +71,8 @@ googleAnalytics = "G-P6SQ1WPN7Y" # G-XXXXXXXXX
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+# added by me
+[params]
+  galleryLightbox = true
+

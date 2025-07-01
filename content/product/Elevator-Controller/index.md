@@ -10,6 +10,13 @@ draft: false
 ---
 
 
+{{< gallery >}}
+  <img src="elevator-controller-1.jpg" class="grid-w100" />
+  <img src="elevator-controller-2.jpg" class="grid-w33" />
+  <img src="elevator-controller-3.jpg" class="grid-w33" />
+  <img src="elevator-controller-4.jpg" class="grid-w33" />
+{{< /gallery >}}
+
 
 
 # Specification
@@ -27,6 +34,8 @@ draft: false
 * All pin can be re-configure to any other pin on site
 * UPS function
 * Hydraulic lift support
+
+---
 
 # PARAMETER PROGRAMMING MODE
 
@@ -111,6 +120,8 @@ NO= RELEVELLING FUNCTION WILL OCCOUR ONLY IF THE RELEVELLING SIGNAL IS ACTIVATED
 
 POWER OFF THE CONTROLLER AND ON IT AFTER SOMETIME.
 
+---
+
 # DIPLAY SETTING OF FLOORS
 
 TO GO TO DISPLAY SEETING OF FLOOR, KEEP PRESSED ‘3’ NO BUTTON AND POWER THE
@@ -142,6 +153,8 @@ YOU HAVE TO CHANGE THE GROUND FLOOR DISPLAY SETTING FROM 63 TO 124.
 |    G     |      61       |
 |    H     |      118      |
 
+---
+
 # CARD COUNT PROGRAMMING MODE
 
 TO GO TO CARE COUNT SETTING, KEEP PRESSED ‘2’ NO. BUTTON AND POWER ON THE CONTROLLER.
@@ -154,6 +167,8 @@ SET LOCK YES/NO?
 - IF YOU WANT SET LOCK MAKE IT YES. ELSE SET IT NO.
 
 AFTER COUNTING IS COMPLETE THE LIFT WILL STOP WORKING AND LCD WILL SHOW “ ERROR 402”.
+
+---
 
 # INPUT / OUTPUT PIN SETTING
 
@@ -176,11 +191,12 @@ KEEP PRESSED ‘1’ & ‘2’ BUTTON AND POWER ON THE CONTROLLER UNTIL MESSAGE 
 - CABIN CALL 4 LED
 - CHANGE 004 TO 006.
 
+---
+
 # CARD TEST
 
 **TO GET INTO THIS MODE PRESS 2 & 3.**
 
-
 --- 
-**Document Version:** 1.0.0
 
+**Document Version:** 1.0.0
