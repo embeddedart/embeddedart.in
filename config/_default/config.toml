@@ -19,8 +19,8 @@ enableEmoji = true
 googleAnalytics = "G-P6SQ1WPN7Y" # G-XXXXXXXXX
 
 [permalinks]
-  posts = '/:title/'  # /:year/:month/:title/
-  product = '/:title/'  # /:year/:month/:title/
+  posts = '/blog/:title/'  # /:year/:month/:title/
+  product = '/product/:title/'  # /:year/:month/:title/
 
 [pagination]
   pagerSize = 100
